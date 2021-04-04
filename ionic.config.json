@@ -1,0 +1,7 @@
+{
+  "name": "backButton",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
